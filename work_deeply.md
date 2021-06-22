@@ -19,3 +19,21 @@ This philosophy asks that you divide your time, dedicating some clearly defined 
 The bimodal philosophy believes that deep work can produce extreme productivity, but only if the subject dedicates enough time to such endeavors to reach maximum cognitive intensity—the state in which real breakthroughs occur. The minimum unit of time for deep work in this philosophy tends to be at least one full day.
 
 The bimodal philosophy is typically deployed by people who cannot succeed in the absence of substantial commitments to non-deep pursuits.
+
+The rhythmic philosophy of deep work scheduling
+
+This philosophy argues that the easiest way to consistently start deep work sessions is to transform them into a simple regular habit.
+
+The chain method is a good example of the rhythmic philosophy of deep work scheduling because it combines a simple scheduling heuristic, with an easy way to remind yourself to do the work: the big red Xs on the calendar.
+
+Another common way to implement the rhythmic philosophy is to replace the visual aid of the chain method with a set starting time that you use every day for deep work.
+
+It perhaps fails to achieve the most intense levels of deep thinking sought in the day-long concentration sessions favored by the bimodalist. The trade-off is that this approach works better with the reality of human natures. By supporting deep work with rock-solid routines that make sure a little bit gets done on a regular basis, the rhythmic scheduler will often log a larger total number of deep hours per year.
+
+The journalist philosophy of deep work scheduling
+
+This philosophy argues that we should fit deep work wherever we can into our schedule.
+
+The ability to rapidly switch your mind from shallow to deep mode doesn't come naturally. Without practice, such switches can seriously deplete your finite willpower reserves. This habit also requires a sense of confidence in your abilities—a conviction that what you're doing is important and will succeed.
+
+In the final accounting, the journalistic philosophy of deep work scheduling remains difficult to pull off. But with successful practicing, it can be a surprisingly robust way to squeeze our large amounts of depth from an otherwise demanding schedule.
